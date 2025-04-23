@@ -61,7 +61,7 @@ radio.encender()
 radio.establecer_canal("98.5 FM")
 radio.apagar()
 
-# Funciones encerder, establecer canal y apagar del DVD
+# Funciones encender, establecer canal y apagar del DVD
 dvd.encender()
 dvd.establecer_canal("DVD player")
 dvd.apagar()
